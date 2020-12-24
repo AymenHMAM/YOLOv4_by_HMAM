@@ -1,8 +1,6 @@
-classes= 80
-train  = /home/pjreddie/data/coco/trainvalno5k.txt
-valid  = coco_testdev
-#valid = data/coco_val_5k.list
+classes= 6
+train  = /content/drive/MyDrive/tp Appren/train/train_20201116.txt
+valid  = /content/drive/MyDrive/tp Appren/test/test_20201116.txt
 names = data/coco.names
-backup = /home/pjreddie/backup/
-eval=coco
+backup = /content/drive/MyDrive/tp Appren/weights
 
