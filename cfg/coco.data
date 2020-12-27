@@ -2,4 +2,4 @@ classes= 6
 train  = /cfg/train.txt
 valid  = /cfg/test.txt
 names = /cfg/coco.names
-backup = /content/drive/MyDrive/tp Appren/weights
+backup = /cfg/
